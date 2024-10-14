@@ -1,15 +1,15 @@
-## PengisianBensin(Sayid) --- Minpro 2
-# Profil
+# PengisianBensin(Sayid) --- Minpro 2
+## Profil
 Nama: Sayid Rafi A'thaya
 NIM: 2409116036
 Kelas A
 Tema: Pengisian Bensin
 
-#Flowchart
+## Flowchart
 ![PengisianBensin_Drawio drawio](https://github.com/user-attachments/assets/0bbf196b-b030-4695-a43f-f1297cb79b28)
 
 
-# Menu Login
+## Menu Login
 ![Screenshot (56)](https://github.com/user-attachments/assets/8f5187c8-4084-42cc-aa06-39f92e02fa96)
 
 Anda Bisa Memilih Mode Login
@@ -22,7 +22,7 @@ Pembayar = Hanya Bertransaksi Di SPBU Untuk Membayar Dan Mengisi Bensin
 
 Invalid Jika Tidak memilih 1 atau 2
 
-# Sebagai Admin
+## Sebagai Admin
 1. Tambah Bensin
 
 
@@ -63,7 +63,7 @@ Admin akan memperbarui di daftar bensin nya
 
 Memilih Opsi Ini, Jika ingin kembali maka akan kembali ke mode login antara admin / pembayar, jika ingin ke mode exit, maka akan langsung keluar dari program
 
-# Menu Pembayar
+## Sebagai Pembayar
 ![Screenshot (63)](https://github.com/user-attachments/assets/78353dae-1316-4824-8323-06eacc98a424)
 
 
