@@ -24,31 +24,47 @@ Invalid Jika Tidak memilih 1 atau 2
 
 # Sebagai Admin
 1. Tambah Bensin
+
+
 ![Screenshot (58)](https://github.com/user-attachments/assets/05b910ac-af7f-4fe3-95a0-2f11fde75b19)
+
 
 Admin akan melakukan penambahan bensin di daftar bensin SPBU Samarinda
 
 2. Penghabisan Bensin
+
+   
 ![Screenshot (59)](https://github.com/user-attachments/assets/76511e6f-103f-4e5b-bbb2-aea0bae36ac7)
+
 
 Admin akan melakukan penghabisan bensin di daftar bensin SPBU Samarinda
 
 3. Lihat Daftar Bensin
+
+   
 ![Screenshot (60)](https://github.com/user-attachments/assets/cb8c3fb3-77c3-4f10-8239-c0406b352822)
+
 
 Admin akan melihat daftar bensin nya saja
 
 4. Perbarui Bensin
+
+   
 ![Screenshot (61)](https://github.com/user-attachments/assets/a9ff111e-7c76-4ada-8f21-fbdf90df0345)
+
 
 Admin akan memperbarui di daftar bensin nya 
 
 5. Exit/Kembali
+
+   
 ![Screenshot (62)](https://github.com/user-attachments/assets/69cbe05b-df60-462c-a594-6e709dd7d06c)
+
 
 Memilih Opsi Ini, Jika ingin kembali maka akan kembali ke mode login antara admin / pembayar, jika ingin ke mode exit, maka akan langsung keluar dari program
 
 # Menu Pembayar
 ![Screenshot (63)](https://github.com/user-attachments/assets/78353dae-1316-4824-8323-06eacc98a424)
+
 
 Mode Pembayar, Dinmana Pendatang akan membayar bensin untuik diisi per liter tergantung keinginan dari kuantitas bensin nya mau berapa liter
